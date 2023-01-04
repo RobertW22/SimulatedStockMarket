@@ -1,13 +1,16 @@
-// create a main function
 
+import java.io.*;
+import java.lang.Thread;
 
 public class MainStockFloor {
-    // create a method
-
+    
     public static void main(String[] args) {
-        // create a new instance of the class
-        // and call the method
-        System.out.print("hi");
+
+        // Welcome Page with name & details input
+        welcomePage.welcome();
+
+
+
     }
 
 
